@@ -1,0 +1,8 @@
+{
+  "name": "VQR CREATOR",
+  "description": "Plateforme éducative pour créateurs de contenu : stratégies, idées de vidéos, création, réseaux sociaux, défi 30 jours et assistant VQR AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
